@@ -1,8 +1,8 @@
 # taskinator-pro
 Built With 🧰
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ***Description***
 
